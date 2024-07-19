@@ -5,6 +5,7 @@ Interface in Tkinter would be as:-
 
 After filling the data , QR Code would be generated at specific location with the name you entered
 ![image](https://github.com/user-attachments/assets/25793444-636c-4dba-bcd4-5be10e004f08)
+OR Code:-
 ![hello](https://github.com/user-attachments/assets/1b08ba88-5013-4b17-a930-623da34d9652)
 
 
